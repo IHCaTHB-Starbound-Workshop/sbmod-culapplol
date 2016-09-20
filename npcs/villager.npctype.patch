@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "path": "/matchColorIndices",
+    "value": false
+  }
+  {
     "op": "add",
     "path": "/items/human/0/1/0/chest/-",
     "value": {
