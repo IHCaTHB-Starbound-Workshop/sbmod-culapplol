@@ -26,6 +26,7 @@
 {"op":"add","path":"/genders/0/shirt/-","value":"sweatervestchest"},
 {"op":"add","path":"/genders/0/shirt/-","value":"hoodiechest"},
 {"op":"add","path":"/genders/0/shirt/-","value":"hoodiechest2"},
+{"op":"add","path":"/genders/0/shirt/-","value":"tshirtchest"},
 
 {"op":"add","path":"/genders/1/shirt/-","value":"protectorateshirtchest"},
 {"op":"add","path":"/genders/1/shirt/-","value":"protectoratevestchest"},
@@ -56,6 +57,7 @@
 {"op":"add","path":"/genders/1/shirt/-","value":"sweatervestchest"},
 {"op":"add","path":"/genders/1/shirt/-","value":"hoodiechest"},
 {"op":"add","path":"/genders/1/shirt/-","value":"hoodiechest2"},
+{"op":"add","path":"/genders/1/shirt/-","value":"tshirtchest"},
 
 {"op":"add","path":"/genders/0/pants/-","value":"apexcommanderpants"},
 {"op":"add","path":"/genders/0/pants/-","value":"apexnavypants"},
