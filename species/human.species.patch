@@ -1,4 +1,5 @@
 [
+{"op":"add","path":"/genders/0/shirt/-","value":"tshirtchest"},
 {"op":"add","path":"/genders/0/shirt/-","value":"avianadventurershirt"},
 {"op":"add","path":"/genders/0/shirt/-","value":"aviancommonershirt"},
 {"op":"add","path":"/genders/0/shirt/-","value":"avianfancyshirt"},
@@ -27,6 +28,7 @@
 {"op":"add","path":"/genders/0/shirt/-","value":"protectorateshirtchest"},
 {"op":"add","path":"/genders/0/shirt/-","value":"protectoratevestchest"},
 
+{"op":"add","path":"/genders/1/shirt/-","value":"tshirtchest"},
 {"op":"add","path":"/genders/1/shirt/-","value":"avianadventurershirt"},
 {"op":"add","path":"/genders/1/shirt/-","value":"aviancommonershirt"},
 {"op":"add","path":"/genders/1/shirt/-","value":"avianfancyshirt"},
